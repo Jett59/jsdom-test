@@ -1,4 +1,5 @@
 {
+  "main": "app.js",
   "dependencies": {
     "jsdom": "^18.1.0"
   }
